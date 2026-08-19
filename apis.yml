@@ -28,7 +28,7 @@ x-tier-reason: portfolio-lead
 x-status: defunct
 x-status-note: Registry service ceased operating Summer 2022; site redirects users to Traveler's Joy. No
   API surface.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
