@@ -41,7 +41,7 @@ x-status-note: Registry service ceased operating Summer 2022; site redirects use
   No API surface.
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-09-15'
+modified: '2026-09-16'
 tags:
 - Company
 - Honeymoon Registry
@@ -51,6 +51,7 @@ tags:
 - Gift Registry
 - E-Commerce
 - Consumer
+- Defunct
 tags_raw:
 - Company
 - Honeymoon Registry
@@ -60,6 +61,7 @@ tags_raw:
 - Gift Registry
 - E-commerce
 - Consumer
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
